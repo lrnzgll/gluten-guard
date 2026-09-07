@@ -9,4 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
+# Image data
 raw_data/
+data/
+# suggested by claude to have data/raw and data/processed, not sure if its actually necessary
