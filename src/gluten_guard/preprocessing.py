@@ -17,7 +17,7 @@ Usage:
 from pathlib import Path
 
 import tensorflow as tf
-from keras import layers
+from keras import layers, utils
 
 # --- Config ---
 IMG_SIZE = (224, 224)
