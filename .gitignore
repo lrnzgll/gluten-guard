@@ -9,7 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Image data
 raw_data/
+data/
 
 .env
 
