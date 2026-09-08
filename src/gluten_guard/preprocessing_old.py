@@ -10,7 +10,7 @@ Preprocessing pipeline for the food-101-5-classes dataset:
 Usage:
     from preprocessing import load_datasets, build_pipeline
 
-    train_ds, val_ds, test_ds, class_names = load_datasets("../../data/raw/food-101-5-classes")
+    train_ds, val_ds, test_ds, class_names = load_datasets("../../data/food-101-5-classes")
     train_ds, val_ds, test_ds = build_pipeline(train_ds, val_ds, test_ds)
 """
 
@@ -33,7 +33,7 @@ SEED = 42
 def load_datasets(data_dir: str | Path):
     """
     Load train/val/test datasets from a directory structured as:
-    data/raw/food-101-5-classes/<class_name>/*.jpg
+    data/food-101-5-classes/<class_name>/*.jpg
 
     Returns raw (unbatched preprocessing) datasets — resizing to IMG_SIZE and
     batching happen here, but normalization/augmentation are applied later
@@ -125,7 +125,7 @@ def build_pipeline(train_ds, val_ds, test_ds):
 if __name__ == "__main__":
     # Quick sanity check when running this file directly:
     # python preprocessing.py
-    train_ds, val_ds, test_ds, class_names = load_datasets("../../data/raw/food-101-5-classes")
+    train_ds, val_ds, test_ds, class_names = load_datasets("../../data/food-101-5-classes")
     print(f"Classes ({len(class_names)}): {class_names}")
 
     train_ds, val_ds, test_ds = build_pipeline(train_ds, val_ds, test_ds)
