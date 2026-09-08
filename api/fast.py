@@ -2,13 +2,15 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/health")
-def health():
-       return {"status": "ok"}
+# Root endpoint
+@app.get("/")
+def root():
+    """Root endpoint returning a greeting."""
+    return {"greeting": "hello"}
 
-@app.get("/items")
-def list_items():
-       return [
-           {"id": 1, "name": "Beispiel A", "preis": 9.99},
-           {"id": 2, "name": "Beispiel B", "preis": 19.99},
-       ]
+
+# Dummy endpoint
+@app.get("/dummy")
+def dummy(number: int):
+    """Dummy endpoint that returns the square of the input number."""
+    return {"result": number ** 2}
