@@ -15,7 +15,7 @@ image_dataset_from_directory split automatically.
 How labels get attached to images:
     We never manually tag anything. Each image's label comes from the name
     of the folder it lives in (see _collect_paths_and_labels below).
-    food-101-5-classes/baklava/*.jpg  -> label "baklava"
+    food-101-5-classes/baklava/*.jpg  ->label "baklava"
     food-101-5-classes/pizza/*.jpg    -> label "pizza"
 
 Usage:
