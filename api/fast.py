@@ -11,6 +11,8 @@ from PIL import Image
 os.environ.setdefault("TF_CPP_MIN_LOG_LEVEL", "2")
 import tensorflow as tf  # noqa: E402
 
+from api.celiac_db import get_dish_assessment
+
 # Paths are resolved relative to this file, not the working directory,
 # so the app starts correctly no matter where uvicorn is launched from.
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -112,7 +114,11 @@ async def predict(file: UploadFile = File(...), top_k: int = 5):
     return {
         "filename": file.filename,
         "predictions": [
-            {"label": class_names[i], "confidence": round(float(probs[i]), 4)}
+            {
+                "label": class_names[i],
+                "confidence": round(float(probs[i]), 4),
+                **get_dish_assessment(class_names[i]),
+            }
             for i in top_idx
         ],
     }
