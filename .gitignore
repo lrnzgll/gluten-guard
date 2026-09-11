@@ -9,7 +9,12 @@ wheels/
 # Virtual environments
 .venv
 
+# Ignore VS Code generated files
+*.vscode
+
 # Image data
 data/
 
 .env
+artifacts/
+.env.yaml
