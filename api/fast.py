@@ -18,9 +18,9 @@ from api.celiac_db import get_dish_assessment
 REPO_ROOT = Path(__file__).resolve().parents[1]
 ARTIFACTS = REPO_ROOT / "artifacts"
 
-MODEL_PATH = Path(os.getenv("MODEL_PATH", ARTIFACTS / "gluten_guard_mobilenetv2.keras"))
+MODEL_PATH = Path(os.getenv("MODEL_PATH", ARTIFACTS / "glutenguard_288_87.keras"))
 CLASSES_PATH = Path(os.getenv("CLASSES_PATH", ARTIFACTS / "class_names.json"))
-IMG_SIZE = (224, 224)
+IMG_SIZE = (288, 288)
 
 # Load the model once at startup, not per request - otherwise every call
 # would take several seconds.
@@ -58,13 +58,6 @@ app = FastAPI(title="Gluten-Guard API", lifespan=lifespan)
 def root():
     """Root endpoint returning a greeting."""
     return {"greeting": "hello"}
-
-
-# Dummy endpoint
-@app.get("/dummy")
-def dummy(number: int):
-    """Dummy endpoint that returns the square of the input number."""
-    return {"result": number ** 2}
 
 
 @app.get("/health")
