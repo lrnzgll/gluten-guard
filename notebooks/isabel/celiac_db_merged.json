@@ -1,4 +1,4 @@
-food101_celiac_db = {
+{
     "apple_pie": {
         "label": "Apple pie",
         "celiac_risk": "High",
@@ -14,7 +14,7 @@ food101_celiac_db = {
     "baby_back_ribs": {
         "label": "Baby back ribs",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": "Our AI sometimes confuses this dish with a Pork Chop. Plain meat is gluten-free unless breaded or served with flour-thickened gravy.",
         "confused_with": [
             "pork_chop"
@@ -51,7 +51,7 @@ food101_celiac_db = {
     "beef_tartare": {
         "label": "Beef tartare",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Raw beef is gluten-free, but Worcestershire sauce or mustard mix-ins may contain barley/wheat.",
@@ -86,7 +86,7 @@ food101_celiac_db = {
     "bibimbap": {
         "label": "Bibimbap",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Rice, vegetables, and meat are safe, but traditional Gochujang (chili paste) and soy sauce contain wheat.",
@@ -133,7 +133,7 @@ food101_celiac_db = {
     "caesar_salad": {
         "label": "Caesar salad",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Greens are safe, but croutons contain wheat, and classic dressing may use Worcestershire sauce.",
@@ -190,7 +190,7 @@ food101_celiac_db = {
     "cheese_plate": {
         "label": "Cheese plate",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": "Our AI sometimes confuses this dish with Cheesecake, which typically has a wheat-based graham cracker crust. Furthermore, it can be confused with Foie Gras. Duck/goose liver is gluten-free, but check if it comes accompanied by toast slices.",
         "confused_with": [
             "cheesecake",
@@ -241,7 +241,7 @@ food101_celiac_db = {
     "chicken_wings": {
         "label": "Chicken wings",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Plain wings are gluten-free, but breading coatings and shared deep fryers introduce high risk.",
@@ -430,7 +430,7 @@ food101_celiac_db = {
     "falafel": {
         "label": "Falafel",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": "Our AI sometimes confuses this dish with Crab Cakes, which rely on breadcrumb binders for structure.",
         "confused_with": [
             "crab_cakes"
@@ -467,7 +467,7 @@ food101_celiac_db = {
     "french_fries": {
         "label": "French fries",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Potatoes are gluten-free, but fried coatings may contain wheat, and oil is frequently shared with breaded foods.",
@@ -517,7 +517,7 @@ food101_celiac_db = {
     "fried_rice": {
         "label": "Fried rice",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": "Our AI sometimes confuses this dish with Risotto. Short-grain arborio rice is naturally gluten-free.",
         "confused_with": [
             "risotto"
@@ -758,7 +758,7 @@ food101_celiac_db = {
     "miso_soup": {
         "label": "Miso soup",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Miso paste can be fermented with barley or wheat instead of pure rice.",
@@ -1050,7 +1050,7 @@ food101_celiac_db = {
     "seaweed_salad": {
         "label": "Seaweed salad",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": "Our AI sometimes confuses this dish with Beet Salad. While generally low risk, verify that dressings or candied nuts do not contain wheat additives.",
         "confused_with": [
             "beet_salad"
@@ -1063,7 +1063,7 @@ food101_celiac_db = {
     "shrimp_and_grits": {
         "label": "Shrimp and grits",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Grits (cornmeal) are naturally gluten-free, but the pan sauce or gravy often uses wheat flour as a thickener.",
@@ -1136,7 +1136,7 @@ food101_celiac_db = {
     "sushi": {
         "label": "Sushi",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": "Our AI sometimes confuses this dish with Sashimi. Raw sliced fish is 100% gluten-free; avoid regular soy sauce.",
         "confused_with": [
             "sashimi"
@@ -1176,7 +1176,7 @@ food101_celiac_db = {
     "tuna_tartare": {
         "label": "Tuna tartare",
         "celiac_risk": "Medium",
-        "contains_gluten": None,
+        "contains_gluten": null,
         "confusion_warning": false,
         "confused_with": [],
         "notes": "Raw tuna is naturally gluten-free, but marinades almost always include standard soy sauce or sesame-soy dressings.",

@@ -1,0 +1,954 @@
+{
+    "apple_pie": {
+        "label": "Apple pie",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "baby_back_ribs": {
+        "label": "Baby back ribs",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "pork_chop"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "baklava": {
+        "label": "Baklava",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "beef_carpaccio": {
+        "label": "Beef carpaccio",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "beef_tartare": {
+        "label": "Beef tartare",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "beet_salad": {
+        "label": "Beet salad",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "beignets": {
+        "label": "Beignets",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "bibimbap": {
+        "label": "Bibimbap",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "bread_pudding": {
+        "label": "Bread pudding",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "breakfast_burrito": {
+        "label": "Breakfast burrito",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "bruschetta": {
+        "label": "Bruschetta",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "strawberry_shortcake"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "caesar_salad": {
+        "label": "Caesar salad",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "cannoli": {
+        "label": "Cannoli",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "caprese_salad": {
+        "label": "Caprese salad",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "carrot_cake": {
+        "label": "Carrot cake",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "ceviche": {
+        "label": "Ceviche",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "cheese_plate": {
+        "label": "Cheese plate",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "cheesecake",
+            "foie_gras"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "cheesecake": {
+        "label": "Cheesecake",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "tiramisu"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "chicken_curry": {
+        "label": "Chicken curry",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "chicken_quesadilla": {
+        "label": "Chicken quesadilla",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "chicken_wings": {
+        "label": "Chicken wings",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "chocolate_cake": {
+        "label": "Chocolate cake",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "baklava",
+            "pancakes"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "chocolate_mousse": {
+        "label": "Chocolate mousse",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "apple_pie"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "churros": {
+        "label": "Churros",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "clam_chowder": {
+        "label": "Clam chowder",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "club_sandwich": {
+        "label": "Club sandwich",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "crab_cakes": {
+        "label": "Crab cakes",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "creme_brulee": {
+        "label": "Creme brulee",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "croque_madame": {
+        "label": "Croque madame",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "cup_cakes": {
+        "label": "Cup cakes",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "red_velvet_cake"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "deviled_eggs": {
+        "label": "Deviled eggs",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "donuts": {
+        "label": "Donuts",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "dumplings": {
+        "label": "Dumplings",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "edamame": {
+        "label": "Edamame",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "eggs_benedict": {
+        "label": "Eggs benedict",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "escargots": {
+        "label": "Escargots",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "gnocchi"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "falafel": {
+        "label": "Falafel",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "crab_cakes"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "fish_and_chips": {
+        "label": "Fish and chips",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "foie_gras": {
+        "label": "Foie gras",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "french_fries": {
+        "label": "French fries",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "french_onion_soup": {
+        "label": "French onion soup",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "french_toast": {
+        "label": "French toast",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "pancakes"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "fried_calamari": {
+        "label": "Fried calamari",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "onion_rings"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "fried_rice": {
+        "label": "Fried rice",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "risotto"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "frozen_yogurt": {
+        "label": "Frozen yogurt",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "edamame"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "garlic_bread": {
+        "label": "Garlic bread",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "pizza"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "gnocchi": {
+        "label": "Gnocchi",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "greek_salad": {
+        "label": "Greek salad",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "grilled_cheese_sandwich": {
+        "label": "Grilled cheese sandwich",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "grilled_salmon": {
+        "label": "Grilled salmon",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "guacamole": {
+        "label": "Guacamole",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "gyoza": {
+        "label": "Gyoza",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "hamburger": {
+        "label": "Hamburger",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "hot_dog"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "hot_and_sour_soup": {
+        "label": "Hot and sour soup",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "hot_dog": {
+        "label": "Hot dog",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "huevos_rancheros": {
+        "label": "Huevos rancheros",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "hummus": {
+        "label": "Hummus",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "ice_cream": {
+        "label": "Ice cream",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "frozen_yogurt"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "lasagna": {
+        "label": "Lasagna",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "ravioli"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "lobster_bisque": {
+        "label": "Lobster bisque",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "lobster_roll_sandwich": {
+        "label": "Lobster roll sandwich",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "macaroni_and_cheese": {
+        "label": "Macaroni and cheese",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "macarons": {
+        "label": "Macarons",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "miso_soup": {
+        "label": "Miso soup",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "mussels": {
+        "label": "Mussels",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "nachos": {
+        "label": "Nachos",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "omelette": {
+        "label": "Omelette",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "chicken_quesadilla"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "onion_rings": {
+        "label": "Onion rings",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "oysters": {
+        "label": "Oysters",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "pad_thai": {
+        "label": "Pad thai",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "risotto"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "paella": {
+        "label": "Paella",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "ceviche",
+            "shrimp_and_grits",
+            "risotto"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "pancakes": {
+        "label": "Pancakes",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "panna_cotta": {
+        "label": "Panna cotta",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "peking_duck": {
+        "label": "Peking duck",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "sashimi"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "pho": {
+        "label": "Pho",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "ramen"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "pizza": {
+        "label": "Pizza",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "pork_chop": {
+        "label": "Pork chop",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "poutine": {
+        "label": "Poutine",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "prime_rib": {
+        "label": "Prime rib",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "pulled_pork_sandwich": {
+        "label": "Pulled pork sandwich",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "ramen": {
+        "label": "Ramen",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "miso_soup"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "ravioli": {
+        "label": "Ravioli",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "red_velvet_cake": {
+        "label": "Red velvet cake",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "risotto": {
+        "label": "Risotto",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "samosa": {
+        "label": "Samosa",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "sashimi": {
+        "label": "Sashimi",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "scallops": {
+        "label": "Scallops",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "seaweed_salad": {
+        "label": "Seaweed salad",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "beet_salad"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "shrimp_and_grits": {
+        "label": "Shrimp and grits",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "spaghetti_bolognese": {
+        "label": "Spaghetti bolognese",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "spaghetti_carbonara": {
+        "label": "Spaghetti carbonara",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "spring_rolls": {
+        "label": "Spring rolls",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "steak": {
+        "label": "Steak",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "filet_mignon",
+            "pork_chop"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "strawberry_shortcake": {
+        "label": "Strawberry shortcake",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "frozen_yogurt"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "sushi": {
+        "label": "Sushi",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "sashimi"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "tacos": {
+        "label": "Tacos",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": true,
+        "confused_with": [
+            "nachos"
+        ],
+        "notes": "",
+        "server_questions": []
+    },
+    "tiramisu": {
+        "label": "Tiramisu",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "tuna_tartare": {
+        "label": "Tuna tartare",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    },
+    "waffles": {
+        "label": "Waffles",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
+        "notes": "",
+        "server_questions": []
+    }
+}
