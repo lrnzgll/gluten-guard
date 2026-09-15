@@ -1,0 +1,502 @@
+{
+  "confused_with_apple_pie": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Apple Pie, which contains wheat crust and carries a high celiac risk. Please double-check that you were served the intended dish."
+  },
+  "confused_with_baby_back_ribs": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Baby Back Ribs, which often feature BBQ sauces containing soy sauce or malt vinegar. Please confirm your order."
+  },
+  "confused_with_baklava": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Baklava, which is made with wheat phyllo pastry and carries a high celiac risk. Please verify your dish before consuming."
+  },
+  "confused_with_beef_carpaccio": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Beef Carpaccio. While raw beef is naturally gluten-free, ensure it is served without crostini or wheat-based dressings."
+  },
+  "confused_with_beef_tartare": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Beef Tartare, which may include Worcestershire sauce or toast points. Please check the ingredients with your server."
+  },
+  "confused_with_beet_salad": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Beet Salad. While generally low risk, verify that dressings or candied nuts do not contain wheat additives."
+  },
+  "confused_with_beignets": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Beignets, which are deep-fried wheat pastry and pose a high celiac risk. Please confirm your order."
+  },
+  "confused_with_bibimbap": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Bibimbap. Traditional Gochujang chili paste and soy sauce marinades often contain gluten."
+  },
+  "confused_with_bread_pudding": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Bread Pudding, which is prepared directly with wheat bread. Please verify your dish."
+  },
+  "confused_with_breakfast_burrito": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Breakfast Burrito, typically wrapped in a standard flour tortilla. Please check your order."
+  },
+  "confused_with_bruschetta": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Bruschetta, which is served on toasted wheat bread and carries a high celiac risk."
+  },
+  "confused_with_caesar_salad": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Caesar Salad, which usually comes with wheat croutons and potentially gluten-containing dressing."
+  },
+  "confused_with_cannoli": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Cannoli, which feature fried wheat pastry shells. Please double-check your order."
+  },
+  "confused_with_caprese_salad": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Caprese Salad. Fresh mozzarella, tomatoes, and basil are naturally gluten-free."
+  },
+  "confused_with_carrot_cake": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Carrot Cake, baked with conventional wheat flour. Please ensure you have the correct item."
+  },
+  "confused_with_ceviche": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Ceviche. Raw marinated fish is safe, but check if tortilla chips were cooked in a dedicated fryer."
+  },
+  "confused_with_cheese_plate": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Cheese Plate. While cheese is safe, accompanying crackers or beer-washed varieties introduce gluten risks."
+  },
+  "confused_with_cheesecake": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Cheesecake, which typically has a wheat-based graham cracker crust."
+  },
+  "confused_with_chicken_curry": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Chicken Curry. Curries are generally low risk unless thickened with flour roux or served with naan."
+  },
+  "confused_with_chicken_quesadilla": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Chicken Quesadilla, prepared using flour tortillas. Please verify your meal."
+  },
+  "confused_with_chicken_wings": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Chicken Wings. Plain wings are safe, but breading and shared fryers present cross-contamination risks."
+  },
+  "confused_with_chocolate_cake": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Chocolate Cake, which contains standard wheat flour unless explicitly labeled flourless."
+  },
+  "confused_with_chocolate_mousse": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Chocolate Mousse. Pure mousse is naturally gluten-free, provided no cake layer or malt powder is added."
+  },
+  "confused_with_churros": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Churros, which consist of deep-fried wheat dough and carry a high celiac risk."
+  },
+  "confused_with_clam_chowder": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Clam Chowder, traditionally thickened using a wheat flour roux. Please verify your order."
+  },
+  "confused_with_club_sandwich": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Club Sandwich, made with standard sliced wheat bread. Please double-check your item."
+  },
+  "confused_with_crab_cakes": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Crab Cakes, which rely on breadcrumb binders for structure."
+  },
+  "confused_with_creme_brulee": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Crème Brûlée, a naturally gluten-free custard dessert. Check that no cookie garnishes are attached."
+  },
+  "confused_with_croque_madame": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Croque Madame, prepared with sliced wheat bread and flour-based Béchamel sauce."
+  },
+  "confused_with_cup_cakes": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Cupcakes, baked from wheat cake flour. Please confirm your order."
+  },
+  "confused_with_deviled_eggs": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Deviled Eggs, which are naturally gluten-free unless served with crispy breadcrumb toppings."
+  },
+  "confused_with_donuts": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Donuts, made from fried wheat dough and posing a high celiac risk."
+  },
+  "confused_with_dumplings": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Dumplings, which traditionally feature wheat-flour wrappers."
+  },
+  "confused_with_edamame": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Edamame. Steamed soybean pods are 100% gluten-free when seasoned with pure salt."
+  },
+  "confused_with_eggs_benedict": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Eggs Benedict, served on English muffins with potential flour-thickened Hollandaise sauce."
+  },
+  "confused_with_escargots": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Escargots. Snails cooked in garlic butter are gluten-free, provided no breading or flour sauce is used."
+  },
+  "confused_with_falafel": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Falafel, which often incorporates wheat flour as a binder and is cooked in shared fryers."
+  },
+  "confused_with_filet_mignon": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Filet Mignon. Plain grilled beef is safe, but verify that sauces or seasonings contain no flour."
+  },
+  "confused_with_fish_and_chips": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Fish and Chips, which is coated in beer batter or wheat flour and fried in shared oil."
+  },
+  "confused_with_foie_gras": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Foie Gras. Duck/goose liver is gluten-free, but check if it comes accompanied by toast slices."
+  },
+  "confused_with_french_fries": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with French Fries. Plain potatoes are safe, but battered coatings and shared fryers pose risks."
+  },
+  "confused_with_french_onion_soup": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with French Onion Soup, which is topped with wheat bread and may contain flour-thickened broth."
+  },
+  "confused_with_french_toast": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with French Toast, prepared from slices of egg-soaked wheat bread."
+  },
+  "confused_with_fried_calamari": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Fried Calamari, which is tossed in wheat flour batter before deep frying."
+  },
+  "confused_with_fried_rice": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Fried Rice. Rice is safe, but standard soy sauce used during wok cooking contains wheat."
+  },
+  "confused_with_frozen_yogurt": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Frozen Yogurt, which is naturally gluten-free unless combined with cookie or cake toppings."
+  },
+  "confused_with_garlic_bread": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Garlic Bread, made directly with sliced wheat baguette or bread."
+  },
+  "confused_with_gnocchi": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Gnocchi, as traditional potato gnocchi dough is bound with wheat flour."
+  },
+  "confused_with_greek_salad": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Greek Salad. Vegetables and feta are naturally gluten-free; ensure pita bread is kept separate."
+  },
+  "confused_with_grilled_cheese_sandwich": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Grilled Cheese Sandwich, made with sliced wheat bread."
+  },
+  "confused_with_grilled_salmon": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Grilled Salmon, which is naturally gluten-free unless coated in flour or soy sauce marinades."
+  },
+  "confused_with_guacamole": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Guacamole. Fresh avocado dip is safe, but check if chips share a deep fryer."
+  },
+  "confused_with_gyoza": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Gyoza, as potsticker wrappers are made from wheat dough."
+  },
+  "confused_with_hamburger": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Hamburger, served on a standard wheat bun."
+  },
+  "confused_with_hot_and_sour_soup": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Hot and Sour Soup, which contains wheat-based soy sauce and flour thickeners."
+  },
+  "confused_with_hot_dog": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Hot Dog, typically served inside a wheat bun."
+  },
+  "confused_with_huevos_rancheros": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Huevos Rancheros, which use naturally gluten-free corn tortillas and eggs."
+  },
+  "confused_with_hummus": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Hummus. Chickpea dip is safe, but verify it is served without pita bread."
+  },
+  "confused_with_ice_cream": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Ice Cream. Standard flavors are gluten-free unless containing cookie pieces or malt."
+  },
+  "confused_with_lasagna": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Lasagna, layered with traditional wheat pasta sheets."
+  },
+  "confused_with_lobster_bisque": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Lobster Bisque, which relies on a wheat flour roux to thicken the soup."
+  },
+  "confused_with_lobster_roll_sandwich": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Lobster Roll Sandwich, served inside a toasted wheat bun."
+  },
+  "confused_with_macaroni_and_cheese": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Macaroni and Cheese, prepared with wheat pasta and a flour-based cheese sauce."
+  },
+  "confused_with_macarons": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Macarons. Traditional French macarons are almond-flour based and naturally gluten-free."
+  },
+  "confused_with_miso_soup": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Miso Soup, as miso paste can sometimes be fermented with barley or wheat."
+  },
+  "confused_with_mussels": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Mussels. Steamed shellfish is gluten-free provided no beer or flour sauce was used."
+  },
+  "confused_with_nachos": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Nachos. Corn chips and cheese are low risk, provided chips do not share a fryer."
+  },
+  "confused_with_omelette": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with an Omelette. Eggs are gluten-free, but check that pancake batter wasn't mixed into the batter."
+  },
+  "confused_with_onion_rings": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Onion Rings, which are coated in wheat batter and deep-fried."
+  },
+  "confused_with_oysters": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Oysters. Raw oysters are 100% gluten-free; check mignonettes for malt vinegar."
+  },
+  "confused_with_pad_thai": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Pad Thai, made with naturally gluten-free rice noodles."
+  },
+  "confused_with_paella": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Paella, a naturally gluten-free rice dish, provided sausage ingredients are safe."
+  },
+  "confused_with_pancakes": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Pancakes, prepared from wheat flour batter."
+  },
+  "confused_with_panna_cotta": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Panna Cotta, an Italian cream dessert set with gelatin that is naturally gluten-free."
+  },
+  "confused_with_peking_duck": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Peking Duck, served with wheat flour pancakes and sweet bean sauce containing wheat."
+  },
+  "confused_with_pho": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Pho, typically made with 100% rice noodles and gluten-free broth."
+  },
+  "confused_with_pizza": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Pizza, made with standard wheat flour dough."
+  },
+  "confused_with_pork_chop": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Pork Chop. Plain meat is gluten-free unless breaded or served with flour-thickened gravy."
+  },
+  "confused_with_poutine": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Poutine, which relies on a wheat flour roux for its gravy."
+  },
+  "confused_with_prime_rib": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Prime Rib. Roast beef is safe; verify that au jus is prepared without flour."
+  },
+  "confused_with_pulled_pork_sandwich": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with a Pulled Pork Sandwich, served on a wheat bun."
+  },
+  "confused_with_ramen": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Ramen, which features traditional wheat noodles and soy sauce broth."
+  },
+  "confused_with_ravioli": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Ravioli, made from stuffed wheat pasta pockets."
+  },
+  "confused_with_red_velvet_cake": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Red Velvet Cake, baked using standard wheat flour."
+  },
+  "confused_with_risotto": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Risotto. Short-grain arborio rice is naturally gluten-free."
+  },
+  "confused_with_samosa": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Samosas, which have a fried wheat pastry shell."
+  },
+  "confused_with_sashimi": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Sashimi. Raw sliced fish is 100% gluten-free; avoid regular soy sauce."
+  },
+  "confused_with_scallops": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Scallops. Pan-seared scallops are safe unless dusted with wheat flour."
+  },
+  "confused_with_seaweed_salad": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Seaweed Salad, whose commercial dressings almost always contain wheat-based soy sauce."
+  },
+  "confused_with_shrimp_and_grits": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Shrimp and Grits. Corn grits are safe, but pan gravy often uses wheat roux."
+  },
+  "confused_with_spaghetti_bolognese": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Spaghetti Bolognese, served over traditional wheat pasta."
+  },
+  "confused_with_spaghetti_carbonara": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Spaghetti Carbonara, prepared with wheat spaghetti noodles."
+  },
+  "confused_with_spring_rolls": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Spring Rolls, wrapped in fried wheat flour dough."
+  },
+  "confused_with_steak": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Steak. Plain grilled cuts are safe; ensure no flour-based steak sauces are added."
+  },
+  "confused_with_strawberry_shortcake": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Strawberry Shortcake, made with shortcake biscuits or wheat sponge cake."
+  },
+  "confused_with_sushi": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Sushi. Fresh fish and rice are safe, but imitation crab, tempura flakes, and soy sauce contain wheat."
+  },
+  "confused_with_tacos": {
+    "contains_gluten": false,
+    "celiac_risk": "Low",
+    "confusion_warning": "Our AI sometimes confuses this dish with Tacos. Traditional corn tortilla tacos are safe unless flour tortillas or wheat marinades are used."
+  },
+  "confused_with_tiramisu": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Tiramisu, which is layered with wheat-based ladyfinger biscuits."
+  },
+  "confused_with_tuna_tartare": {
+    "contains_gluten": null,
+    "celiac_risk": "Medium",
+    "confusion_warning": "Our AI sometimes confuses this dish with Tuna Tartare. Raw tuna is safe, but marinades frequently feature wheat-containing soy sauce."
+  },
+  "confused_with_waffles": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Our AI sometimes confuses this dish with Waffles, prepared using standard wheat flour batter."
+  }
+}
