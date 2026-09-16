@@ -14,6 +14,7 @@
         "contains_gluten": null,
         "confusion_warning": true,
         "confused_with": [
+            "steak",
             "pork_chop"
         ],
         "notes": "",
@@ -183,8 +184,11 @@
         "label": "Chicken quesadilla",
         "celiac_risk": null,
         "contains_gluten": null,
-        "confusion_warning": false,
-        "confused_with": [],
+        "confusion_warning": true,
+        "confused_with": [
+            "tacos",
+            "nachos"
+        ],
         "notes": "",
         "server_questions": []
     },
@@ -921,6 +925,15 @@
         "confused_with": [
             "nachos"
         ],
+        "notes": "",
+        "server_questions": []
+    },
+    "takoyaki": {
+        "label": "Takoyaki",
+        "celiac_risk": null,
+        "contains_gluten": null,
+        "confusion_warning": false,
+        "confused_with": [],
         "notes": "",
         "server_questions": []
     },
