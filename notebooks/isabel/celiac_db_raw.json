@@ -822,6 +822,15 @@
       "Is the meat marinade free of wheat-based soy sauce or flour thickeners?"
     ]
   },
+  "takoyaki": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "notes": "Takoyaki batter is a wheat-flour-based mix, similar to a savory pancake batter.",
+    "server_questions": [
+        "Is the takoyaki batter made with a gluten-free flour blend?",
+        "Is the takoyaki sauce (often containing wheat-based Worcestershire-style sauce) left off or gluten-free?"
+    ]
+  },
   "tiramisu": {
     "contains_gluten": true,
     "celiac_risk": "High",

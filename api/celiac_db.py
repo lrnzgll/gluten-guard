@@ -14,11 +14,15 @@ food101_celiac_db = {   'apple_pie': {   'label': 'Apple pie',
                           'celiac_risk': 'Medium',
                           'contains_gluten': None,
                           'confusion_warning': 'Our AI sometimes confuses this '
-                                               'dish with a Pork Chop. Plain '
-                                               'meat is gluten-free unless '
-                                               'breaded or served with '
+                                               'dish with Steak. Plain grilled '
+                                               'cuts are safe; ensure no '
+                                               'flour-based steak sauces are '
+                                               'added. Furthermore, it can be '
+                                               'confused with a Pork Chop. '
+                                               'Plain meat is gluten-free '
+                                               'unless breaded or served with '
                                                'flour-thickened gravy.',
-                          'confused_with': ['pork_chop'],
+                          'confused_with': ['steak', 'pork_chop'],
                           'notes': 'Plain meat is gluten-free, but BBQ sauces '
                                    'often contain soy sauce or malt vinegar.',
                           'server_questions': [   'Does the BBQ sauce or rub '
@@ -229,8 +233,18 @@ food101_celiac_db = {   'apple_pie': {   'label': 'Apple pie',
     'chicken_quesadilla': {   'label': 'Chicken quesadilla',
                               'celiac_risk': 'High',
                               'contains_gluten': True,
-                              'confusion_warning': False,
-                              'confused_with': [],
+                              'confusion_warning': 'Our AI sometimes confuses '
+                                                   'this dish with Tacos. '
+                                                   'Traditional corn tortilla '
+                                                   'tacos are safe unless '
+                                                   'flour tortillas or wheat '
+                                                   'marinades are used. '
+                                                   'Furthermore, it can be '
+                                                   'confused with Nachos. Corn '
+                                                   'chips and cheese are low '
+                                                   'risk, provided chips do '
+                                                   'not share a fryer.',
+                              'confused_with': ['tacos', 'nachos'],
                               'notes': 'Prepared using flour tortillas.',
                               'server_questions': [   'Can this be made using '
                                                       '100% corn tortillas on '
@@ -1125,6 +1139,19 @@ food101_celiac_db = {   'apple_pie': {   'label': 'Apple pie',
                                          'Is the meat marinade free of '
                                          'wheat-based soy sauce or flour '
                                          'thickeners?']},
+    'takoyaki': {   'label': 'Takoyaki',
+                    'celiac_risk': 'High',
+                    'contains_gluten': True,
+                    'confusion_warning': False,
+                    'confused_with': [],
+                    'notes': 'Takoyaki batter is a wheat-flour-based mix, '
+                             'similar to a savory pancake batter.',
+                    'server_questions': [   'Is the takoyaki batter made with '
+                                            'a gluten-free flour blend?',
+                                            'Is the takoyaki sauce (often '
+                                            'containing wheat-based '
+                                            'Worcestershire-style sauce) left '
+                                            'off or gluten-free?']},
     'tiramisu': {   'label': 'Tiramisu',
                     'celiac_risk': 'High',
                     'contains_gluten': True,

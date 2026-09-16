@@ -484,6 +484,11 @@
     "celiac_risk": "Low",
     "confusion_warning": "Our AI sometimes confuses this dish with Tacos. Traditional corn tortilla tacos are safe unless flour tortillas or wheat marinades are used."
   },
+  "confused_with_takoyaki": {
+    "contains_gluten": true,
+    "celiac_risk": "High",
+    "confusion_warning": "Can be confused with Takoyaki by our AI, a wheat-flour-based batter dish."
+  },
   "confused_with_tiramisu": {
     "contains_gluten": true,
     "celiac_risk": "High",
